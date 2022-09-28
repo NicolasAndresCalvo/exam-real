@@ -1,0 +1,9 @@
+### FRONTEND
+
+docker build . -t nicolasandrescalvo/front
+docker push nicolasandrescalvo/front
+
+### BACKEND
+
+docker build . -t nicolasandrescalvo/back
+docker push nicolasandrescalvo/back
